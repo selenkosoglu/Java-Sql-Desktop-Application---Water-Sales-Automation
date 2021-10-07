@@ -1,2 +1,5 @@
-# Java-Sql-Desktop-Application---Water-Sales
-Description
+# Java Sqlite Desktop Application Water Sales Automation
+
+Application Decstription
+
+##Application Images
