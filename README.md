@@ -1,5 +1,5 @@
 # Java Sqlite Desktop Application Water Sales Automation
 
-Application Decstription
+Application Description
 
 ##Application Images
