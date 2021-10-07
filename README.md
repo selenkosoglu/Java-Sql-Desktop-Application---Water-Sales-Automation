@@ -1,6 +1,14 @@
 # Java Sqlite Desktop Application Water Sales Automation
 
-Application Description
+In this project the goal is to create a desktop application which fulfil the needs of a "Water Sale" program by using Java, SQLite and JFrame.
+
+## Languages and Technologies Used in this Project
+
+| Language / Technology | :arrow_right:  |  % | 
+| ------------- |:-------------:|:-------------:|
+| Java | :arrow_right:  |  90 |
+| JFrame | :arrow_right:  |  80 |
+| SQLite | :arrow_right:  |  70 |
 
 ## Application Images
 
